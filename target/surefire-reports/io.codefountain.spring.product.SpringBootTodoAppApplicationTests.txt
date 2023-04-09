@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.codefountain.spring.product.SpringBootTodoAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.745 s - in io.codefountain.spring.product.SpringBootTodoAppApplicationTests

@@ -1,0 +1,6 @@
+io\codefountain\spring\product\domain\Product.class
+io\codefountain\spring\product\controllers\ProductController.class
+io\codefountain\spring\product\qr\QRCodeService.class
+io\codefountain\spring\product\repository\ProductRepository.class
+io\codefountain\spring\product\SpringBootTodoAppApplication.class
+io\codefountain\spring\product\qr\QRCodeGenerator.class
